@@ -2,6 +2,13 @@
 * Projeto de um site de Artigos desenvolvido com Node.js, neste site, usuários admnistradores podem cadastrar artigos de diferentes categorias, como por exemplo,
 matemática, filosofia, história, e qualquer outra pessoa pode acessá-los, mesmo não estando logada.
 
+## Estrutura deste Documento
+* Tecnologias Utilizadas
+* Bibliotecas Utilizadas
+* Funcionalidades
+* Documentação de Rotas
+* Imagens do Sistema
+
 ## Tecnologias Utilizadas
 * JavaScript, Node.js e Express
 * HTML, CSS e Bootstrap
@@ -24,7 +31,30 @@ matemática, filosofia, história, e qualquer outra pessoa pode acessá-los, mes
 * O site utiliza um sistema de paginação para exibição dos artigos.
 
 ## Visualização do Sistema
-![]([https://raw.githubusercontent.com/MateusMaciel340/aluraplay/main/assets/aluraplay.gif](https://raw.githubusercontent.com/HenriqueMartinelliPinheiro/Artigle-SiteArtigos/main/imagensSite/Login.png))
+### Tela de Login
+![](https://raw.githubusercontent.com/HenriqueMartinelliPinheiro/Artigle-SiteArtigos/main/imagensSite/Login.png)
+
+### Cadastro de Usuário
+![](https://raw.githubusercontent.com/HenriqueMartinelliPinheiro/Artigle-SiteArtigos/main/imagensSite/cadastroUsuario.png)
+
+### Listagem de Usuário
+![](https://raw.githubusercontent.com/HenriqueMartinelliPinheiro/Artigle-SiteArtigos/main/imagensSite/listagemUsuarios.png)
+
+### Edição de Usuário
+![](https://raw.githubusercontent.com/HenriqueMartinelliPinheiro/Artigle-SiteArtigos/main/imagensSite/edicaoUsuario.png)
+
+### Exlusão de Usuário
+![](https://raw.githubusercontent.com/HenriqueMartinelliPinheiro/Artigle-SiteArtigos/main/imagensSite/exclusaoUsuarios.png)
+
+### Cadastro de Artigo
+![](https://raw.githubusercontent.com/HenriqueMartinelliPinheiro/Artigle-SiteArtigos/main/imagensSite/cadastroArtigos.png)
+
+### Listagem de Artigos para o Administrador
+![](https://raw.githubusercontent.com/HenriqueMartinelliPinheiro/Artigle-SiteArtigos/main/imagensSite/listagemArtigos.png)
+
+### Listagem de Categoria
+![](https://raw.githubusercontent.com/HenriqueMartinelliPinheiro/Artigle-SiteArtigos/main/imagensSite/listagemCategorias.png)
+
 ## Rotas
 * GET / : Redireciona o usuário para a página de listagem de artigos;
   
